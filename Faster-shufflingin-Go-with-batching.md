@@ -1,4 +1,4 @@
-```markdown
+
 ![image-24](https://lemire.me/blog/wp-content/uploads/2024/08/image-24-825x510.jpg)
 
 # Faster shuffling in Go with batching
